@@ -15,8 +15,8 @@ m/
 py/
 
 # image files
-*.png
-*.jpg
+./*.png
+./*.jpg
 
 # data files
 data/*
