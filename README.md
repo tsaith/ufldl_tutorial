@@ -16,7 +16,8 @@ Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 * load_MNIST.py: Load MNIST dataset
 * sample_images.py: Load sample images for testing sparse autoencoder
 * sparse_autoencoder.py: Functions used in sparse autoencoder
-* train.py: Train sparse autoencoder with MNIST data and visualize learnt features
+* train.py: Train sparse autoencoder on sample images
+* train_mnist.py: Train sparse autoencoder with MNIST data
 * check_numerical_gradient.py: Check numerical gradients
 * display_network.py: Display visualized features
 
