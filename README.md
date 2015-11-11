@@ -1,6 +1,7 @@
 ## Unsupervised Feature Learning and Deep Learning Tutorial 
 
 Implement the exercises of UFLDL Tutorial with python 3
+
 Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ### Packages required
@@ -26,7 +27,7 @@ Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ### Softmax Regression
 
-* softmax.py: Softmax cost and gradient functions
+* softmax.py: Functions used in Softmax regression
 * softmax_exercise.py: Classify MNIST digits
 
 ### Self-Taught Learning and Unsupervised Feature Learning
