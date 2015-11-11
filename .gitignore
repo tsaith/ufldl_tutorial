@@ -12,6 +12,7 @@ nb/
 build/
 __pycache__/
 m/
+py/
 
 # image files
 *.png
