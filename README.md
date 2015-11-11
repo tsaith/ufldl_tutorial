@@ -27,7 +27,7 @@ Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ### Softmax Regression
 
-* softmax.py: Functions used in Softmax regression
+* softmax.py: Functions used in softmax regression
 * softmax_exercise.py: Classify MNIST digits
 
 ### Self-Taught Learning and Unsupervised Feature Learning
@@ -45,5 +45,5 @@ Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ### Working with Large Images (Convolutional Neural Networks)
 
-* cnn.py: Functions used in convolution neural networks.
+* cnn.py: Functions used in convolution neural networks
 * cnn_exercise.py: Classify STL-10 images
